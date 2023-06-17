@@ -4,7 +4,6 @@
 
 Vous êtes Data Scientist au sein de l’entreprise "Place de marché”, qui souhaite lancer une marketplace e-commerce.
 
-logo entreprise place de marché
 Sur la place de marché, des vendeurs proposent des articles à des acheteurs en postant une photo et une description.
 
 Pour l'instant, l'attribution de la catégorie d'un article est effectuée manuellement par les vendeurs, et est donc peu fiable. De plus, le volume des articles est pour l’instant très petit.
@@ -75,6 +74,8 @@ Linda"
 premier jeu de données d’articles avec le lien pour télécharger la photo et une description associée
 un notebook d’exemple d’étude de faisabilité
 un notebook d’exemple de classification supervisée d’images
+
+https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Data_Scientist_P6/Weather_Images_CNN_Transfer_Learning_Stage_2_supervised_classification_V1.0.ipynb
 
 <h2>Compétences évaluées</h2>
 
